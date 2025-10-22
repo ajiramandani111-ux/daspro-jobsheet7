@@ -38,6 +38,7 @@ b.continue digunakan untuk men skip nilai atau melewati nilai yang diinginkan un
 
 2.jika i++ ditaruh dipaling atas, maka akan langsung menamplkan nilai ke 2 karena akan terupdate terlebih dahulu sebelum dapat menampilkan nilai pertama
 3. sesuai nilai yang diinputkan, yaitu 19 kali
+
 4. (file ModifikasiWhile.java)
 5. done
 
