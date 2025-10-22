@@ -48,6 +48,9 @@ adalah “batal”, maka berapa kali perulangan dilakukan?
 inisialisasi dan update?
 
 1.hanya sekali, karena terdapat break yang akan menghentikan proses ketika menginpit 'batal'
+
 2.break; akan menjadi kondisi berhenti jika sesuai syarat
+
 3.true digunakan agar proses tetap terus berjalan dengan 'batal' sebagai tanda berhenti
+
 4.karena tidak menggunakan nilai yang perlu diurutkan
