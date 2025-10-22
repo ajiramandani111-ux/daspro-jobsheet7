@@ -33,7 +33,9 @@ program menampilkan pesan tambahan "Bagus, pertahankan nilainya"!
    
 1.
 a.membatasi nilai yang diinput agar tidak kurang dari 0 atau lebih dari 100
+
 b.continue digunakan untuk men skip nilai atau melewati nilai yang diinginkan untuk tidak ditampilkan, dan akan menampilkan nilai selanjutnya
+
 2.jika i++ ditaruh dipaling atas, maka akan langsung menamplkan nilai ke 2 karena akan terupdate terlebih dahulu sebelum dapat menampilkan nilai pertama
 3. sesuai nilai yang diinputkan, yaitu 19 kali
 4. (file ModifikasiWhile.java)
@@ -46,6 +48,8 @@ adalah “batal”, maka berapa kali perulangan dilakukan?
 3. Apa fungsi dari penggunaan nilai true pada kondisi DO-WHILE?
 4. Mengapa perulangan DO-WHILE tersebut tetap berjalan meskipun tidak ada komponen 
 inisialisasi dan update?
+
+jawab
 
 1.hanya sekali, karena terdapat break yang akan menghentikan proses ketika menginpit 'batal'
 
